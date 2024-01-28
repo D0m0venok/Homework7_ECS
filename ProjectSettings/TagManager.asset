@@ -17,11 +17,11 @@ TagManager:
   - 
   - 
   - 
-  - Character
-  - Enemy
+  - BlueTeam
+  - RedTeam
   - 
-  - EnemyBullet
-  - PlayerBullet
+  - BlueArrow
+  - RedArrow
   - 
   - 
   - 
